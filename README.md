@@ -44,7 +44,8 @@
   </li>
   
   <li> Training Parameteres :
-    
+ </ul>
+ <ul>
     <ol>
       <li>Batch Size=4</li>
       <li>No of Epochs=1</li>
@@ -53,4 +54,8 @@
     </ol>
   </li>
   
-</ul>
+</ul> 
+<ul>
+  <li> A snapshot from the training preiod.</li>
+  
+![](assests/su6.PNG)
