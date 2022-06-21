@@ -23,12 +23,12 @@
 
   
 </ul>
-  ![](assests/su3.PNG)
+! [](assests/su3.PNG)
 
 <ul>
   <li> Results after fine tuning</li>
   
   </ul>
-  ![](assests/su4.PNG)
+![](assests/su4.PNG)
 
 
