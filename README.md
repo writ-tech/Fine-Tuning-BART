@@ -13,6 +13,7 @@
 <li>Tokenization process:</li>
   
 </ul>
+
 ![](assests/su2.PNG)
 
 <ul>
@@ -23,12 +24,14 @@
 
   
 </ul>
-! [](assests/su3.PNG)
+
+![](assests/su3.PNG)
 
 <ul>
   <li> Results after fine tuning</li>
   
   </ul>
+  
 ![](assests/su4.PNG)
 
 
