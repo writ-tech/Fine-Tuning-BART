@@ -61,3 +61,8 @@
 </ul>
   
 ![](assests/su6.PNG)
+
+##### A snapshot from the streamlit local server app.
+
+![](assests/su7.PNG)
+
