@@ -34,6 +34,7 @@
 ![](assests/su4.PNG)
 
 <ul>
+  
   <li> Dataset size : 
     <ol>
       <li>Train= 5000 datapoints</li>
@@ -42,8 +43,10 @@
     </ol>
   </li>
   
-    <li> Training Parameteres : 
+  <li> Training Parameteres :
+    
     <ol>
+      
       <li>Batch Size=4</li>
       <li>No of Epochs=1</li>
       <li>Weight Deacy=0.1</li>
@@ -51,4 +54,4 @@
     </ol>
   </li>
   
-  </ul>
+</ul>
