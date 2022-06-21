@@ -8,4 +8,4 @@
 <li>Tokenization process:</li>
 
 </ol>
-!aa](/assests/su2.PNG "aa")
+![aa](/assests/su2.PNG "aa")
