@@ -7,7 +7,7 @@
 <ul>
   
   
-  <li>Mediasum Dataset from huggingface.("ccdv/mediasum")<li>
+  <li>Mediasum Dataset from huggingface.("ccdv/mediasum")</li>
   
   <li>BART model used from hugging face.( model_name = "sshleifer/distilbart-xsum-12-3")</li>
 
@@ -19,7 +19,7 @@
 
 <ul>
   
-  <li>Results before fine tuning<li>
+  <li>Results before fine tuning</li>
   
 </ul>
 
