@@ -46,7 +46,6 @@
   <li> Training Parameteres :
     
     <ol>
-      
       <li>Batch Size=4</li>
       <li>No of Epochs=1</li>
       <li>Weight Deacy=0.1</li>
