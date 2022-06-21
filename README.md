@@ -4,7 +4,7 @@
 
 #### TASK 1 (BART FINE TUNING)
 
-<ol>
+<ul>
   
 <li>Mediasum Dataset from huggingface.("ccdv/mediasum")<li>
   
@@ -12,6 +12,6 @@
 
 <li>Tokenization process:</li>
   
-</ol>
+</ul>
 
 ![](assests/su2.PNG)
