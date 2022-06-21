@@ -6,11 +6,12 @@
 
 <ul>
   
-<li>Mediasum Dataset from huggingface.("ccdv/mediasum")<li>
   
-<li>BART model used from hugging face.( model_name = "sshleifer/distilbart-xsum-12-3")</li>
+  <li>Mediasum Dataset from huggingface.("ccdv/mediasum")<li>
+  
+  <li>BART model used from hugging face.( model_name = "sshleifer/distilbart-xsum-12-3")</li>
 
-<li>Tokenization process:</li>
+  <li>Tokenization process:</li>
   
 </ul>
 
@@ -18,10 +19,7 @@
 
 <ul>
   
-<li>Results before fine tuning<li>
-  ![](assests/su2.PNG)![](assests/su2.PNG)
-
-
+  <li>Results before fine tuning<li>
   
 </ul>
 
@@ -30,7 +28,7 @@
 <ul>
   <li> Results after fine tuning</li>
   
-  </ul>
+</ul>
   
 ![](assests/su4.PNG)
 
