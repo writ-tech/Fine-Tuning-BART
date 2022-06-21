@@ -58,4 +58,6 @@
 <ul>
   <li> A snapshot from the training preiod.</li>
   
+</ul>
+  
 ![](assests/su6.PNG)
