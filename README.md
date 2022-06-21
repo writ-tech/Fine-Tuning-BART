@@ -2,7 +2,7 @@
 
 ### Datasets and models used:
 
-#### TASK 1 (BART FINE TUNING)
+#### BART FINE TUNING
 
 <ul>
   
