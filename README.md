@@ -33,4 +33,11 @@
   
 ![](assests/su4.PNG)
 
-
+<ul>
+  <li> Dataset size : 
+    <ol>
+      <li>Train= 5000 datapoints</li>
+      <li>Validation =22 datapoints</li>
+      <li>Test =22 datapoints</li>
+    </ol>
+  </ul>
