@@ -13,4 +13,5 @@
 <li>Tokenization process:</li>
   
 </ol>
-![](assests/su2.PNG )
+
+![](assests/su2.PNG)
