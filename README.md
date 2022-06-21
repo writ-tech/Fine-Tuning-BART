@@ -1,6 +1,6 @@
 # SynthUse
 
-#### Datasets and models used:
+### Datasets and models used:
 
 <ol>
 <li>Mediasum Dataset from huggingface. ** ("ccdv/mediasum") ** <li>
@@ -8,4 +8,4 @@
 <li>Tokenization process:</li>
 
 </ol>
- [The San Juan Mountains are beautiful!](/assests/su2.png "aa")
+ [The San Juan Mountains are beautiful!](/assests/su2.PNG "aa")
