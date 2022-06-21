@@ -8,4 +8,4 @@
 <li>Tokenization process:</li>
 
 </ol>
- [The San Juan Mountains are beautiful!](/assests/su2.PNG "aa")
+!aa](/assests/su2.PNG "aa")
